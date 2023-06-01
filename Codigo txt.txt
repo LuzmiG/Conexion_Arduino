@@ -15,3 +15,25 @@ if(dato=='c')
 cerrarPuerta();  
 }
 */
+
+
+-----------------------------------
+Editor de Codigo
+Nos permite escribir código
+W3C
+Son quienes define las tecnologias que deben de implemetar los navegadores
+entre que lenguajes web son aceptados 
+
+-htmlreference.io 
+Recursos sobre etiquetas de html
+
+
+
+BUENAS PRACTICAS
+-Abrir una carpeta en el IDE para no tener regados proyectos
+
+Atajo VISUAL CODE
+Para saber mas atajos ver la documentación de Emmet
+*visual studio code cheatsheet
+! = Para llamar la estructura de HTML
+
